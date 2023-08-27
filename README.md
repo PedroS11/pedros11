@@ -27,6 +27,16 @@ A mainly backend developer but with some interest in frontend too. Currently, do
 
 - [AWS S3 Tools](https://github.com/PedroS11/aws-s3-tools) - A NPM module to make it easier to deal with S3 objects
 
+### Boilerplates
+
+- [Typescript starter](https://github.com/PedroS11/typescript-starter) - This repository has everything you need to start a typescript project.
+
+- [AWS Cloudformation templates](https://github.com/PedroS11/aws-cloudformation-templates) - A set of the most common patterns and templates used with AWS
+
+- [Docker with NodeJS + Redis + Postgres](https://github.com/PedroS11/node-postgres-redis-docker) - Docker containers with NodeJs, Redis and PostgreSQL
+
+- [VueJS boilerplate for Heroku](https://github.com/PedroS11/vuejs-heroku-boilerplate) - VueJs project ready to be deployed on heroku with Vuetify, production server and mode history
+
 ### Miscellaneous
 
 - [Telegram Bot](https://github.com/PedroS11/shaman-king-episode-bot) - Telegram bot that polls a website for new Shaman King 2021 episodes
