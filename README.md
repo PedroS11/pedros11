@@ -19,7 +19,7 @@ A mainly backend developer but with some interest in frontend too. Currently, do
 
 - [Twitch Live Extension](https://github.com/PedroS11/twitch-live-extension) (9k+ concurrent users) - A browser extension that will help you to find out when your favorite streamers are live on Twitch
 
-- [Efatura Amigo](https://github.com/PedroS11/efatura-amigo) - A helper extension to select the most suitable category of each invoice when you access the Portuguese Finance website
+- [Efatura Amigo](https://github.com/PedroS11/efatura-amigo) - A helper extension to select the most suitable category of each invoice when you access the "Portal das Finanças"
 
 ### NPM Packages
 
