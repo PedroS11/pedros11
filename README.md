@@ -2,7 +2,7 @@
 
 # Hey, Im Pedro Oliveira da Silva 👋🏻 
 
-A mainly backend developer but with some interest in frontend too. Currently, doing both with Typescript on an ecommerce company. Previously, a .Net Core/PL SQL developer for an health software company.
+A mainly backend developer but with some interest in frontend too. Currently, doing both with Typescript on an ecommerce company. Previously, a .Net Core/PL SQL developer for a health software company.
 
 💻 As backend, I worked with Docker and now with AWS ecosystem (Lambdas, S3, Queues). As for frontend, tried a bit of Vue but React is what I mostly use for work as for my personal projects.
 
@@ -19,7 +19,7 @@ A mainly backend developer but with some interest in frontend too. Currently, do
 
 - [Twitch Live Extension](https://github.com/PedroS11/twitch-live-extension) (9k+ concurrent users) - A browser extension that will help you to find out when your favorite streamers are live on Twitch
 
-- [Efatura Amigo](https://github.com/PedroS11/efatura-amigo) - An helper extension to select the most suitable category of each invoice when you access the Portuguese Finance website
+- [Efatura Amigo](https://github.com/PedroS11/efatura-amigo) - A helper extension to select the most suitable category of each invoice when you access the Portuguese Finance website
 
 ### NPM Packages
 
@@ -35,12 +35,12 @@ A mainly backend developer but with some interest in frontend too. Currently, do
 
 - [Docker with NodeJS + Redis + Postgres](https://github.com/PedroS11/node-postgres-redis-docker) - Docker containers with NodeJs, Redis and PostgreSQL
 
-- [VueJS boilerplate for Heroku](https://github.com/PedroS11/vuejs-heroku-boilerplate) - VueJs project ready to be deployed on heroku with Vuetify, production server and mode history
+- [VueJS boilerplate for Heroku](https://github.com/PedroS11/vuejs-heroku-boilerplate) - VueJs project ready to be deployed on Heroku with Vuetify, production server and mode history
 
 ### Miscellaneous
 
-- [Telegram Bot](https://github.com/PedroS11/shaman-king-episode-bot) - Telegram bot that polls a website for new Shaman King 2021 episodes
+- [Telegram Bot](https://github.com/PedroS11/shaman-king-episode-bot) - Telegram bot that polls a website for new Shaman King Flowers episodes
 
-- [OBS Studio Plugin](https://github.com/PedroS11/obs-studio-football-timer) - A footall timer that can be integrated with OBS Studio and displayed on your streams
+- [OBS Studio Plugin](https://github.com/PedroS11/obs-studio-football-timer) - A footbal timer that can be integrated with OBS Studio and displayed on your streams
 
 
