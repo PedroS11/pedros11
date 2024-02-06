@@ -2,9 +2,9 @@
 
 # Hey, Im Pedro Oliveira da Silva 👋🏻 
 
-A mainly backend developer but with some interest in frontend too. Currently, doing both with Typescript on an ecommerce company. Previously, a .Net Core/PL SQL developer for a health software company.
+A mainly backend developer but with some interest in frontend too. Currently, doing both with Typescript for an e-commerce company. Previously, a .Net Core/PL SQL developer for a health software company.
 
-💻 As backend, I worked with Docker and now with AWS ecosystem (Lambdas, S3, Queues). As for frontend, tried a bit of Vue but React is what I mostly use for work as for my personal projects.
+💻 As backend, I worked with Docker and now with AWS ecosystem (Lambdas, S3, Queues). As for frontend, tried a bit of Vue but React is what I mostly use for work for my personal projects.
 
 📧 pedrosilva1137work@gmail.com
 
@@ -39,8 +39,8 @@ A mainly backend developer but with some interest in frontend too. Currently, do
 
 ### Miscellaneous
 
-- [Telegram Bot](https://github.com/PedroS11/shaman-king-episode-bot) - Telegram bot that polls a website for new Shaman King Flowers episodes
+- [Shaman King Episode Bot](https://github.com/PedroS11/shaman-king-episode-bot) - Telegram bot that polls a website for new Shaman King Flowers episodes
 
-- [OBS Studio Plugin](https://github.com/PedroS11/obs-studio-football-timer) - A footbal timer that can be integrated with OBS Studio and displayed on your streams
+- [OBS Studio Plugin](https://github.com/PedroS11/obs-studio-football-timer) - A football timer that can be integrated with OBS Studio and displayed on your streams
 
 
