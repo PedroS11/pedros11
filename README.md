@@ -24,7 +24,9 @@ A mainly backend developer but with some interest in frontend too. Currently, do
 
 ### Bots & Plugins
 
-- [Shaman King Episode Bot](https://github.com/PedroS11/shaman-king-episode-bot) - Telegram bot that polls a website for new Shaman King Flowers episodes
+- [Parkside Notifier](https://github.com/PedroS11/parkside-notifier) - Telegram bot that crawls Lidl.pt website and sends Parkside items on sale to a Telegram channel
+
+- [Shaman King Episode Bot](https://github.com/PedroS11/shaman-king-episode-bot) - Telegram bot that polls a website for new Shaman King Flowers episodes and sends them to a Telegram channel
 
 - [OBS Studio Plugin](https://github.com/PedroS11/obs-studio-football-timer) - A football timer that can be integrated with OBS Studio and displayed on your streams
 
