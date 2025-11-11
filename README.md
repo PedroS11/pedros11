@@ -39,6 +39,8 @@ A mainly backend developer but with some interest in frontend too. Currently, do
 
 ### Boilerplates
 
+- [Raspberry Pi Configuration Steps](https://github.com/PedroS11/raspeberry-pi-config) - Repo with an extensive README with steps to configure a raspberry pi (VNC, Git, Docker, etc)
+
 - [Typescript starter](https://github.com/PedroS11/typescript-starter) - This repository has everything you need to start a typescript project.
 
 - [AWS Cloudformation templates](https://github.com/PedroS11/aws-cloudformation-templates) - A set of the most common patterns and templates used with AWS
