@@ -15,6 +15,10 @@ A mainly backend developer but with some interest in frontend too. Currently, do
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=pedros11&count_private=true&show_icons=true&theme=cobalt">
 
+### Apis
+
+- [Efatura Amigo BE](https://github.com/PedroS11/efatura-amigo-be) - AWS stack to support Efatura Amigo browser extension
+
 ### Browser Extensions
 
 - [Twitch Live Extension](https://github.com/PedroS11/twitch-live-extension) (10k+ concurrent users) - A browser extension that will help you to find out when your favorite streamers are live on Twitch
