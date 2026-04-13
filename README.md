@@ -13,6 +13,10 @@ A mainly backend developer but with some interest in frontend too. Currently, do
 
 ## What did I do
 
+### Blog
+
+- [Personal Blog](https://github.com/PedroS11/pedros11.github.io) - Available at https://blog.pedroosilva.dev/
+
 ### Apis
 
 - [Efatura Amigo BE](https://github.com/PedroS11/efatura-amigo-be) - AWS stack to support Efatura Amigo browser extension
