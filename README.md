@@ -19,6 +19,7 @@ A mainly backend developer but with some interest in frontend too. Currently, do
 
 ### Apis
 
+- [Efatura Amigo FE](https://github.com/PedroS11/efatura-amigo-fe) - Dashboard to display/manages data stored in the dynamo/algolia for Efatura Amigo
 - [Efatura Amigo BE](https://github.com/PedroS11/efatura-amigo-be) - AWS stack to support Efatura Amigo browser extension
 
 ### Browser Extensions
